@@ -9,6 +9,7 @@
  *
  * @license http://www.opensource.org/licenses/mit-license.html MIT License
  */
+/*
 if (extension_loaded('mbstring')) {
     // 2 - MB_OVERLOAD_STRING
     if (ini_get('mbstring.func_overload') & 2) {
@@ -18,3 +19,4 @@ if (extension_loaded('mbstring')) {
         );
     }
 }
+*/
